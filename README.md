@@ -4,7 +4,7 @@ Hi Pricefx team, here is some information on the parts demo.
 # Configuration
 
 ## Auth Token
-Please enter your Threekit auth token in `./src/config/index.js' or the player will not load.
+Please enter your Threekit auth token in `./src/config/index.js` or the player will not load.
 
 ## Asset IDs
 You can find the Threekit AssetIDs for each system in `./src/componentss/Form/index.js` in the objects' `key`:
