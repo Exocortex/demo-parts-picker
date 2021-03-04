@@ -1,0 +1,22 @@
+.mobile-form-container {
+  padding: 10px;
+  float: right;
+  width: 100vw;
+}
+.form-container {
+  padding: 10px;
+  float: left;
+  width: 30vw;
+}
+
+.active {
+  box-shadow: 1px 1px 10px #888888;
+}
+
+.form-container {
+  height: 33vh;
+}
+
+.form-dropdown{
+  margin: 5px;
+}
