@@ -1,5 +1,4 @@
-# Pricefx Parts Picker
-Hi Pricefx team, here is some information on the parts demo.
+# Parts Picker
 
 # Configuration
 
